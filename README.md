@@ -1,9 +1,9 @@
-<h3 align="left">Hola <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Soy Kevin Ramirez</h3>
+<h3 align="center">Hola <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Soy Kevin Ramirez</h3>
 
-
+<p align="center">
 🖥️ Estudiante de Ingeneria en Sistemas. <br>
 🖌️ Diseñador Gráfico.
-
+</p>
 <br><br>
 
 
