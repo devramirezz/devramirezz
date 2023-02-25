@@ -30,5 +30,5 @@
 
 
 <br><br>
-<p><a href="https://ko-fi.com/https://ko-fi.com/kevinramirezz/" target="_blank"> 
+<p><a href="https://ko-fi.com/kevinramirezz/" target="_blank"> 
   <img align="left" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="https://ko-fi.com" /></a></p><br><br>
