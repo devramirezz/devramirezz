@@ -1,4 +1,4 @@
-<h3 align="center">Hola <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> </h3>
+<h3 align="center">Hola 👋 </h3>
 
 <p align="center">
 🖥️ Estudiante de Ingeneria en Sistemas. <br>
@@ -7,15 +7,15 @@
 <br><br>
 
 
-## Redes Sociales 
+## 📱Redes Sociales 
 
 <p align="left" style="background:yellow">
 
 <a href="https://www.linkedin.com/in/kevinramirezz/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/devramirezz/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
   
 </p>
@@ -24,8 +24,9 @@
 
 
   
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 
 
 <br><br>
