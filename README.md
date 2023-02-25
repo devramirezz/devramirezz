@@ -30,3 +30,4 @@
 
 
 <br><br>
+<p><a href="https://ko-fi.com/https://ko-fi.com/kevinramirezz"> <img align="left" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="https://ko-fi.com/kevinramirezz" /></a></p><br><br>
